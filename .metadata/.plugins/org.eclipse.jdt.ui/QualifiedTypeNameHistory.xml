@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="co.com.rodriguezCaicedo.microservice.resolveEnigmaApi3.model.GetEnigmaRequest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="co.com.rodriguezCaicedo.microservice.resolveEnigmaApi3.model.Header"/>
+    <fullyQualifiedTypeName name="co.com.rodriguezCaicedo.microservice.resolveEnigmaApi3.model.GetEnigmaStepResponse"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,449 @@
+2024-03-06 18:37:06,029 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-06 18:37:30,891 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi:resolve-enigma-api:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaAp\pom.xml.
+2024-03-06 18:37:31,964 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api/src/main/java
+2024-03-06 18:37:31,964 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api/src/main/resources
+2024-03-06 18:37:31,966 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api/src/main/resources
+2024-03-06 18:37:31,968 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api/src/test/java
+2024-03-06 18:37:31,968 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api/src/test/resources
+2024-03-06 18:37:32,268 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-03-06 18:37:33,664 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:37:33,668 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 18:37:33,688 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:37:33,694 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:37:33,694 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaAp\src\test\resources
+2024-03-06 18:44:36,908 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:44:36,912 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 18:44:36,914 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:44:36,918 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:44:36,918 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaAp\src\test\resources
+2024-03-06 18:46:09,572 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi2:resolve-enigma-api2:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\pom.xml.
+2024-03-06 18:46:10,017 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/main/java
+2024-03-06 18:46:10,017 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 18:46:10,017 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 18:46:10,017 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/test/java
+2024-03-06 18:46:10,018 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/test/resources
+2024-03-06 18:46:10,138 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-03-06 18:46:10,642 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:46:10,642 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 18:46:10,644 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:46:10,647 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:46:10,647 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\src\test\resources
+2024-03-06 18:50:32,693 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi2:resolve-enigma-api2:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\pom.xml.
+2024-03-06 18:50:33,161 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:50:33,162 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:50:33,163 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:50:33,166 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:50:33,166 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\src\test\resources
+2024-03-06 18:50:48,958 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-06 18:50:49,151 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi2:resolve-enigma-api2:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\pom.xml.
+2024-03-06 18:50:49,498 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/main/java
+2024-03-06 18:50:49,498 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 18:50:49,498 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 18:50:49,499 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/test/java
+2024-03-06 18:50:49,499 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/test/resources
+2024-03-06 18:50:49,693 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-03-06 18:50:50,016 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:50:50,016 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 18:50:50,018 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:50:50,021 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:50:50,021 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\src\test\resources
+2024-03-06 18:52:46,098 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:52:46,100 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 18:52:46,102 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:52:46,105 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:52:46,105 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\src\test\resources
+2024-03-06 18:54:31,773 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:54:31,774 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 18:54:31,775 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:54:31,777 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:54:31,778 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\src\test\resources
+2024-03-06 18:55:32,643 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:55:32,644 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 18:55:32,646 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 18:55:32,648 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 18:55:32,648 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaAp2\src\test\resources
+2024-03-06 19:00:21,698 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi3:resolve-enigma-api3:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\pom.xml.
+2024-03-06 19:00:22,374 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api3/src/main/java
+2024-03-06 19:00:22,375 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api3/src/main/resources
+2024-03-06 19:00:22,390 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api3/src/main/resources
+2024-03-06 19:00:22,407 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api3/src/test/java
+2024-03-06 19:00:22,407 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api3/src/test/resources
+2024-03-06 19:00:22,638 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-03-06 19:00:23,391 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:00:23,392 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:00:23,402 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:00:23,405 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:00:23,406 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:01:19,405 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:01:19,406 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:01:19,407 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:01:19,409 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:01:19,409 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:01:39,892 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:01:39,893 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:01:39,894 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:01:39,900 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:01:39,901 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:02:07,820 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:07,820 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:02:07,821 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:02:07,824 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:07,824 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:02:12,295 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:12,296 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:02:12,297 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:02:12,299 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:12,299 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:02:28,090 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:28,091 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:02:28,092 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:02:28,096 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:28,096 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:02:32,752 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:32,752 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:02:32,755 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:02:32,756 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:02:32,756 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:03:01,000 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:03:01,001 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:03:01,003 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:03:01,009 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:03:01,010 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:03:40,316 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:03:40,316 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:03:40,319 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:03:40,320 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:03:40,320 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:03:49,894 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:03:49,894 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:03:49,896 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:03:49,898 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:03:49,898 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:04:33,982 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:04:33,982 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:04:33,985 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:04:33,989 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:04:33,989 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:04:51,638 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:04:51,638 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:04:51,640 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:04:51,642 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:04:51,642 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:06:08,276 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:08,277 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:06:08,280 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:06:08,282 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:08,282 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:06:12,824 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:12,825 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:06:12,826 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:06:12,828 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:12,828 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:06:33,558 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi3:resolve-enigma-api3:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\pom.xml.
+2024-03-06 19:06:33,908 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:33,908 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:06:33,909 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:06:33,910 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:33,911 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:06:48,819 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-06 19:06:48,944 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi3:resolve-enigma-api3:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\pom.xml.
+2024-03-06 19:06:49,229 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api3/src/main/java
+2024-03-06 19:06:49,230 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api3/src/main/resources
+2024-03-06 19:06:49,230 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api3/src/main/resources
+2024-03-06 19:06:49,230 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api3/src/test/java
+2024-03-06 19:06:49,230 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api3/src/test/resources
+2024-03-06 19:06:49,441 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-03-06 19:06:49,749 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:49,750 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:06:49,751 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:06:49,754 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:06:49,754 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:08:20,494 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:08:20,495 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:08:20,496 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:08:20,497 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:08:20,498 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:08:33,332 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:08:33,332 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:08:33,334 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:08:33,336 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:08:33,337 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:09:09,081 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:09,082 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:09:09,082 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:09:09,084 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:09,085 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:09:16,037 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:16,038 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:09:16,038 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:09:16,041 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:16,041 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:09:20,447 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:20,447 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:09:20,448 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:09:20,450 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:20,450 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:09:44,334 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:44,335 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:09:44,336 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:09:44,338 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:44,338 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:09:52,365 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:52,366 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:09:52,367 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:09:52,369 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:09:52,369 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:10:15,538 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:10:15,539 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:10:15,540 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:10:15,544 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:10:15,544 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:15:08,516 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:15:08,517 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:15:08,518 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:15:08,520 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:15:08,520 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:15:51,951 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:15:51,951 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:15:51,952 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:15:51,954 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:15:51,955 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:15:59,507 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:15:59,507 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:15:59,508 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:15:59,510 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:15:59,510 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:16:10,471 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:16:10,472 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:16:10,474 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:16:10,477 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:16:10,477 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:17:12,382 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:17:12,382 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:17:12,385 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:17:12,386 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:17:12,386 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:30:49,159 [Worker-30: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi2:resolve-enigma-api2:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\pom.xml.
+2024-03-06 19:30:49,820 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/main/java
+2024-03-06 19:30:49,820 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 19:30:49,822 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 19:30:49,835 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/test/java
+2024-03-06 19:30:49,835 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/test/resources
+2024-03-06 19:30:50,091 [Worker-30: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-03-06 19:30:50,502 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:30:50,503 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:30:50,511 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:30:50,514 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:30:50,514 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:31:03,600 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi2:resolve-enigma-api2:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\pom.xml.
+2024-03-06 19:31:03,881 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:31:03,882 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:31:03,882 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:31:03,885 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:31:03,885 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:31:38,272 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:31:38,274 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:31:38,275 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:31:38,277 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:31:38,277 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:31:47,413 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:31:47,414 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:31:47,415 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:31:47,417 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:31:47,417 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:32:11,037 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:32:11,037 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:32:11,039 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:32:11,041 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:32:11,041 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:32:23,096 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:32:23,097 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:32:23,098 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:32:23,100 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:32:23,101 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:32:36,280 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:32:36,281 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:32:36,282 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:32:36,282 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:32:36,282 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:34:06,200 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:34:06,201 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:34:06,203 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:34:06,206 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:34:06,206 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:34:34,684 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:34:34,684 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:34:34,686 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:34:34,688 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:34:34,688 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:34:52,961 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:34:52,961 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:34:52,962 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:34:52,965 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:34:52,965 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:35:16,975 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:35:16,976 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:35:16,977 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:35:16,979 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:35:16,979 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:35:32,545 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:35:32,545 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:35:32,547 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:35:32,548 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:35:32,548 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:36:17,012 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:36:17,012 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:36:17,014 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:36:17,016 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:36:17,016 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:36:22,275 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:36:22,276 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:36:22,277 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:36:22,279 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:36:22,279 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:37:18,829 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:18,829 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:37:18,831 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:37:18,834 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:18,835 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:37:31,011 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:31,012 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:37:31,016 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:37:31,023 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:31,023 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:37:40,961 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:40,961 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:37:40,963 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:37:40,965 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:40,965 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:37:44,474 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:44,475 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:37:44,476 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:37:44,477 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:44,478 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:37:52,724 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-06 19:37:52,861 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi2:resolve-enigma-api2:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\pom.xml.
+2024-03-06 19:37:53,209 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/main/java
+2024-03-06 19:37:53,209 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 19:37:53,209 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/main/resources
+2024-03-06 19:37:53,210 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api2/src/test/java
+2024-03-06 19:37:53,210 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api2/src/test/resources
+2024-03-06 19:37:53,438 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-03-06 19:37:53,736 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:53,736 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:37:53,737 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:37:53,740 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:37:53,740 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:38:26,472 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:38:26,474 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:38:26,475 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:38:26,478 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:38:26,478 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:38:39,652 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:38:39,652 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:38:39,655 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:38:39,656 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:38:39,656 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P2\ResolveEnigmaApi2\src\test\resources
+2024-03-06 19:42:18,348 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:42:18,348 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:42:18,350 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:42:18,351 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:42:18,351 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P3\ResolveEnigmaAp3\src\test\resources
+2024-03-06 19:47:27,274 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi:resolve-enigma-api:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\pom.xml.
+2024-03-06 19:47:27,928 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api/src/main/java
+2024-03-06 19:47:27,928 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api/src/main/resources
+2024-03-06 19:47:27,932 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api/src/main/resources
+2024-03-06 19:47:27,937 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolve-enigma-api/src/test/java
+2024-03-06 19:47:27,937 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resolve-enigma-api/src/test/resources
+2024-03-06 19:47:28,112 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-03-06 19:47:28,611 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:47:28,612 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:47:28,622 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:47:28,625 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:47:28,625 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:47:40,809 [Worker-66: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.rodriguezCaicedo.service.resolveEnigmaApi:resolve-enigma-api:1.0.0 @ C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\pom.xml.
+2024-03-06 19:47:41,169 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:47:41,171 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:47:41,172 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:47:41,176 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:47:41,176 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:47:57,205 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:47:57,207 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:47:57,208 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:47:57,210 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:47:57,212 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:48:14,268 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:48:14,268 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:48:14,269 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:48:14,271 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:48:14,271 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:49:06,140 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:06,141 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:49:06,143 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:49:06,146 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:06,146 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:49:20,818 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:20,820 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:49:20,824 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:49:20,825 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:20,825 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:49:29,345 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:29,346 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:49:29,347 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:49:29,348 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:29,348 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:49:34,228 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:34,229 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:49:34,230 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:49:34,232 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:49:34,232 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:50:20,174 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:50:20,174 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:50:20,176 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:50:20,178 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:50:20,178 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:50:29,038 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:50:29,038 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:50:29,039 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:50:29,041 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:50:29,041 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:50:54,639 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:50:54,639 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:50:54,641 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:50:54,642 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:50:54,642 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:51:01,004 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:01,004 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:51:01,005 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:51:01,007 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:01,007 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:51:11,676 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:11,677 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:51:11,679 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:51:11,683 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:11,683 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:51:30,065 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:30,066 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:51:30,068 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:51:30,069 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:30,070 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:51:33,100 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:33,100 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:51:33,101 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:51:33,103 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:33,104 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:51:39,657 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:39,658 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:51:39,659 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:51:39,662 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:39,662 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:51:59,781 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:59,781 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:51:59,783 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:51:59,784 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:51:59,784 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
+2024-03-06 19:52:13,324 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:52:13,325 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-06 19:52:13,326 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 19:52:13,327 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-06 19:52:13,328 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte1\trabajos\Swagger\P1\ResolveEnigmaApi\src\test\resources
